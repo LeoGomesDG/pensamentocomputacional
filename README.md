@@ -5,4 +5,4 @@ Repositorio criado para postar os trabalhos desenvolvidos na disciplina de pensa
 
 
 
-@LiziBugaslki
+@LiziBugalski
