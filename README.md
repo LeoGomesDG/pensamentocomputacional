@@ -32,9 +32,7 @@ Da noite ao mole frescor,
 Quero viver um momento,
 Morrer contigo de amor!_
 
-![Isso é uma imagem] [https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/search?q=Amor+(%C3%81lvares+de+Azevedo)&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj48r6Hn6b5AhUcuZUCHXTpD3cQ_AUoAXoECAEQAw&biw=1920&bih=971&dpr=1#imgrc=bYfAkwY2Z_7N3M]
+![amor](https://user-images.githubusercontent.com/106177847/182215180-6886bf43-7ce6-480e-9b8d-e975dfda521b.jpg)
 
-
-
-
+**Referências: Poema - www.pensador.com/poemas_mais_lindos_da_literatura_brasileira, Imagem - https://superacademicos.wordpress.com/2015/03/27/cultura-super-academica-09-amor-alvares-de-azevedo/**
 
