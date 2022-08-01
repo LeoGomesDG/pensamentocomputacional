@@ -36,3 +36,4 @@ Morrer contigo de amor!_
 
 **Referências: Poema - www.pensador.com/poemas_mais_lindos_da_literatura_brasileira, Imagem - https://superacademicos.wordpress.com/2015/03/27/cultura-super-academica-09-amor-alvares-de-azevedo/**
 
+@LiziBugalski
